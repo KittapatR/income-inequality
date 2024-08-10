@@ -140,6 +140,10 @@ Pareto’s Law of Income Distribution: Evidence for Germany, the United Kingdom,
 
 ปรากฏการณ์ bunching ของเงินได้อาจเกิดขึ้นเพียงในรอยต่อระหว่างขั้นรายได้สุทธิสำหรับภาษีเงินได้บุคคลธรรมดาเท่านั้น เพราะจากแบบจำลองทั้งสองสามารถสรุปได้ว่าไม่มีปรากฏการณ์ bunching ในกลุ่มผู้มีรายได้น้อย (quintile 1-4)
 
+![](pictures/A6.png)
+
+ทว่าตามการแจกแจงรายได้ตามที่ simulate ทั้ง 2 models นั้น พบว่ายังไม่เป็นไปตาม bunching theory ที่กล่าวไว้หน้าก่อน แต่สิ่งหนึ่งที่เราเห็น คือ bunching effect ใน quintile 1-4 นั้นหากไม่ปรากฏอยู่จะให้ความแม่นยำในการอธิบายอย่างมีนัยสำคัญ
+
 ### อ้างอิง
 
 - (Bunching) https://doi.org/10.1146/annurev-economics-080315-015234
