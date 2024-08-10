@@ -51,11 +51,7 @@ $$\mathrm{Gini}_X = 1-2\int_0^1\mathrm{Lorenz}(x)\,dx$$
 
 โดย $\mathrm{Lorenz}: [0,1] \to [0,1]$ นิยามได้ว่า
 
-$$\mathrm{Lorenz}_X(x) = \begin{cases}
-    0 & x = 0\\
-    \frac{\sum_{m=1}^k I_m}{\sum_{j=1}^n I_j}&x = \frac kn \text{ for some } k \in \{1, \dots, n\}\\
-    \mathrm{Lorenz}_X\left(\frac kn\right)&\lfloor nx \rfloor = k
-\end{cases}$$
+![Lorenz equation](pictures/image.png)
 
 ซึ่งค่า Gini จะมีได้ตั้งแต่ $[0,1]$ โดยหากว่า
 - Gini เป็น 0 จะเปรียบเสมือนว่าประชากรมีการแจกแจงเดียวกัน (ในกรณีของรายได้ หมายถึง ทุกคนมีรายได้เท่ากัน)
